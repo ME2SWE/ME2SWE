@@ -5,6 +5,17 @@
 - I graduated from a college with a mechanical engineering degree.
 - I am preparing to pivot from aerospace to tech.
 - I love working on cars and driving them.
+- Cooking and baking are my new hobbies.
+  - Korean
+  - American
+  - Italian
+  - Japanese
+  - & More!
+- Big fan of Keanu Reeves
+  - Matrix series (1994, 2003, 2021)
+  - Constantine (2005)
+  - Speed (1994)
+  - John Wick series (2014, 2017, 2019, 2023)
 
 ## My Technology Stacks
 - JavaScript (HTML & CSS)
