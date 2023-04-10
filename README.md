@@ -26,31 +26,32 @@
 - Next.js
 
 ## Non-software Technology
-- Solidworks
-- Altium
-- AutoCAD
+- Solidworks (Mechanical + Drawing Design CAD)
+- Altium (Electrical Design CAD)
+- AutoCAD (Mechancial + Drawing Design CAD)
 
 ## My Personal Projects
 - Atelier
--   Frontend Project
--   Mock E-Commerce Webpage
--   React + Material UI
+  - Frontend Project
+  - Mock E-Commerce Webpage
+  - React + Material UI
 
 - Microservice API
--   Conversion of a monolithic API to a microservice API
--   Enhanced performance to handle +10K RPS with < 1% error rate
--   Docker Containerized API servers and DB server (MongoDB)
--   Multiple replicas for NGINX load balancer
--   NGINX cache
+  - Conversion of a monolithic API to a microservice API
+  - Enhanced performance to handle +10K RPS with < 1% error rate
+  - Docker Containerized API servers and DB server (MongoDB)
+  - Multiple replicas for NGINX load balancer
+  - Both API servers and DB server deployed on AWS EC2
+  - NGINX cache
 
 - Sharkfin
--   Gamified Stock Trading App fro Generation Z
--     Frontend
--       React + Material UI
--       Google AuthO
--       Websockets for real-time stock data
--       Websockets for real-time chat
--     Backend
--       PostgreSQL DB deployed on AWS
--       Timescale DB extension (timeseries DB) - hypertables
--       Node and Express
+  - Gamified Stock Trading App fro Generation Z
+    - Frontend
+      - React + Material UI
+      - Google AuthO
+      - Websockets for real-time stock data
+      - Websockets for real-time chat
+    - Backend
+      - PostgreSQL DB deployed on AWS
+      - Timescale DB extension (timeseries DB) - hypertables
+      - Node and Express
