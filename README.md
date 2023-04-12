@@ -44,8 +44,10 @@
 ## My Personal Projects
 - Atelier
   - Frontend Project
-  - Mock E-Commerce Webpage
+  - Mock E-Commerce Product Order Page
   - React + Material UI
+  - Server side rendering with Babel and Webpack
+  - Click [My Engineering Journal](https://gist.github.com/ME2SWE/8d17be477fe0212eb6cd014ddccb6e45) to see my Atelier engineering journal
 
 - Microservice API
   - Conversion of a monolithic API to a microservice API
