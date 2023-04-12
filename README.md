@@ -30,11 +30,11 @@
 
 ## Technology I use at work (mostly learning as I progress)
 - Kubernetes (microk8s)
-- Linux
-- Vim
-- C/C++
+- Linux (Debian & Ubuntu)
+- C/C++ (embedded software, for robots)
 - TypeScript
 - Next.js
+- PLC Programming (Planned)
 
 ## Non-software Technology
 - Solidworks (Mechanical + Drawing Design CAD)
