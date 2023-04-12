@@ -42,29 +42,36 @@
 - AutoCAD (Mechancial + Drawing Design CAD)
 
 ## My Personal Projects
-- Atelier
+- Atelier (Frontend)
   - Frontend Project
   - Mock E-Commerce Product Order Page
   - React + Material UI
   - Server side rendering with Babel and Webpack
-  - Click [My Engineering Journal](https://gist.github.com/ME2SWE/8d17be477fe0212eb6cd014ddccb6e45) to see my Atelier engineering journal
+  - [My Atelier Engineering Journal](https://gist.github.com/ME2SWE/8d17be477fe0212eb6cd014ddccb6e45)
+  - [Atelier Repo](https://github.com/ME2SWE/Atelier)
 
-- Microservice API
+- Microservice API for Atelier (System Design/Backend)
   - Conversion of a monolithic API to a microservice API
   - Enhanced performance to handle +10K RPS with < 1% error rate
   - Docker Containerized API servers and DB server (MongoDB)
   - Multiple replicas for NGINX load balancer
   - Both API servers and DB server deployed on AWS EC2
   - NGINX cache
+  - [My System Design Engineering Journal](https://gist.github.com/ME2SWE/7d771d46362c74494c26a9e8e8d41aa1)
+  - [API Repo](https://github.com/ME2SWE/Reviews)
 
-- Sharkfin
+- Sharkfin (Fullstack)
   - Gamified Stock Trading App fro Generation Z
     - Frontend
       - React + Material UI
       - Google AuthO
       - Websockets for real-time stock data
       - Websockets for real-time chat
+      - Server side rendering with Babel and Webpack
     - Backend
       - PostgreSQL DB deployed on AWS
       - Timescale DB extension (timeseries DB) - hypertables
       - Node and Express
+  - [My Sharkfin Engineering Journal](https://gist.github.com/ME2SWE/ae04a12f5953b733c0b5dfbe4ce916c1)
+  - [Sharkfin Frontend Repo](https://github.com/ME2SWE/Sharkfin-Frontend)
+  - [Sharkfin Backend Repo](https://github.com/ME2SWE/Sharkfin-Backend)
