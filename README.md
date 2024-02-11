@@ -1,7 +1,7 @@
 # Howard Yoon
 
 ## About Me
-- I am currently working as a Systems Engineer at Airbus Robotics located in Washington.
+- I am currently working as a Robotics Engineer at Airbus Robotics located in Washington.
 - I graduated from a college with a mechanical engineering degree.
 - I am preparing to pivot from aerospace to tech.
 - I love working on cars and driving them.
@@ -27,8 +27,6 @@
 - MongoDB
 - Amazon Web Service (AWS)
 - Docker
-
-## Technology I use at work (mostly learning as I progress)
 - Kubernetes (microk8s)
 - Linux (Debian & Ubuntu)
 - C/C++ (embedded software, for robots)
